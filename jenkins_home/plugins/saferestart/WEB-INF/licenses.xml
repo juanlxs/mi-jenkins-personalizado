@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<l:dependencies xmlns:l='licenses' groupId='org.jenkins-ci.plugins' artifactId='saferestart' version='102.v4dc1b_9636a_ee'><l:dependency name='Safe Restart Plugin' groupId='org.jenkins-ci.plugins' artifactId='saferestart' version='102.v4dc1b_9636a_ee' url='https://github.com/jenkinsci/saferestart-plugin'><l:description>The Jenkins Plugins Parent POM Project</l:description><l:license name='The MIT license' url='https://opensource.org/licenses/MIT'/></l:dependency></l:dependencies>

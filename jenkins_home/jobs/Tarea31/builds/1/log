@@ -1,0 +1,8 @@
+Started by user [8mha:////4N5ZzrxGm9h4ioTqrqRpZLr6veTvyJiAKeX6mDnbulePAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyJEgZu/dLi1CL9xJTczDwAzEzwlcAAAAA=[0mJuan Luis Guerra Quevedo
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/Tarea31
+[Tarea31] $ /bin/sh -xe /tmp/jenkins11343960003202470469.sh
++ whoami
+root
+Triggering a new build of [8mha:////4K7v9jSX7KB+avPpffYuv1a2L3h7GdrsRfbHq5bXfPM6AAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZe/az8JP2QxKLURGMjfQCUsfg4wgAAAA==[0mTarea32
+Finished: SUCCESS

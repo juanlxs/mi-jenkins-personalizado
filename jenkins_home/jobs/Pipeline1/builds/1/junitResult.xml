@@ -1,0 +1,127 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<result plugin="junit@1322.v1556dc1c59a_f">
+  <suites>
+    <suite>
+      <file>/var/jenkins_home/workspace/Pipeline1/target/surefire-reports/TEST-test.OtherTest.xml</file>
+      <name>test.OtherTest</name>
+      <duration>0.0</duration>
+      <startTime>-1</startTime>
+      <properties/>
+      <time>0</time>
+      <nodeId>21</nodeId>
+      <enclosingBlocks>
+        <string>14</string>
+      </enclosingBlocks>
+      <enclosingBlockNames>
+        <string>Build</string>
+      </enclosingBlockNames>
+      <cases>
+        <case>
+          <duration>0.0</duration>
+          <startTime>-1</startTime>
+          <className>test.OtherTest</className>
+          <testName>mytest</testName>
+          <skipped>false</skipped>
+          <keepTestNames>false</keepTestNames>
+          <errorStackTrace>java.lang.AssertionError: oops
+	at org.junit.Assert.fail(Assert.java:89)
+	at test.Base.run(Base.java:35)
+	at test.OtherTest.mytest(OtherTest.java:32)
+</errorStackTrace>
+          <errorDetails>oops</errorDetails>
+          <properties/>
+          <failedSince>1</failedSince>
+        </case>
+      </cases>
+    </suite>
+    <suite>
+      <file>/var/jenkins_home/workspace/Pipeline1/target/surefire-reports/TEST-test.SomeTest.xml</file>
+      <name>test.SomeTest</name>
+      <duration>0.005</duration>
+      <startTime>-1</startTime>
+      <properties/>
+      <time>0.005</time>
+      <nodeId>21</nodeId>
+      <enclosingBlocks>
+        <string>14</string>
+      </enclosingBlocks>
+      <enclosingBlockNames>
+        <string>Build</string>
+      </enclosingBlockNames>
+      <cases>
+        <case>
+          <duration>0.004</duration>
+          <startTime>-1</startTime>
+          <className>test.SomeTest</className>
+          <testName>test1</testName>
+          <skipped>false</skipped>
+          <keepTestNames>false</keepTestNames>
+          <errorStackTrace>java.lang.AssertionError: oops
+	at org.junit.Assert.fail(Assert.java:89)
+	at test.Base.run(Base.java:35)
+	at test.SomeTest.test1(SomeTest.java:32)
+</errorStackTrace>
+          <errorDetails>oops</errorDetails>
+          <properties/>
+          <failedSince>1</failedSince>
+        </case>
+        <case>
+          <duration>0.0</duration>
+          <startTime>-1</startTime>
+          <className>test.SomeTest</className>
+          <testName>test2</testName>
+          <skipped>false</skipped>
+          <keepTestNames>false</keepTestNames>
+          <properties/>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>0.0</duration>
+          <startTime>-1</startTime>
+          <className>test.SomeTest</className>
+          <testName>test3</testName>
+          <skipped>false</skipped>
+          <keepTestNames>false</keepTestNames>
+          <properties/>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>0.001</duration>
+          <startTime>-1</startTime>
+          <className>test.SomeTest</className>
+          <testName>test4</testName>
+          <skipped>false</skipped>
+          <keepTestNames>false</keepTestNames>
+          <properties/>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>0.0</duration>
+          <startTime>-1</startTime>
+          <className>test.SomeTest</className>
+          <testName>test5</testName>
+          <skipped>false</skipped>
+          <keepTestNames>false</keepTestNames>
+          <properties/>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>0.0</duration>
+          <startTime>-1</startTime>
+          <className>test.SomeTest</className>
+          <testName>test6</testName>
+          <skipped>false</skipped>
+          <keepTestNames>false</keepTestNames>
+          <properties/>
+          <failedSince>0</failedSince>
+        </case>
+      </cases>
+    </suite>
+  </suites>
+  <duration>0.005</duration>
+  <skipOldReports>false</skipOldReports>
+  <startTime>-1</startTime>
+  <stdioRetention>NONE</stdioRetention>
+  <keepTestNames>false</keepTestNames>
+  <keepProperties>false</keepProperties>
+</result>

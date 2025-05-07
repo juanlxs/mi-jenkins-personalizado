@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.6.0
+Build-Jdk-Spec: 17
+Specification-Title: Folder-based Authorization Strategy
+Specification-Version: 0.0
+Implementation-Title: Folder-based Authorization Strategy
+Implementation-Version: 217.vd5b_18537403e
+Group-Id: io.jenkins.plugins
+Artifact-Id: folder-auth
+Short-Name: folder-auth
+Long-Name: Folder-based Authorization Strategy
+Url: https://github.com/jenkinsci/folder-auth-plugin
+Plugin-Version: 217.vd5b_18537403e
+Hudson-Version: 2.479.1
+Jenkins-Version: 2.479.1
+Plugin-Dependencies: configuration-as-code:1897.v79281e066ea_7;resolutio
+ n:=optional,cloudbees-folder:6.959.v4ed5cc9e2dd4
+Plugin-Developers: Abhyudaya Sharma:AbhyudayaSharma:sharmaabhyudaya@gmai
+ l.com
+Plugin-License-Name: MIT License
+Plugin-License-Url: https://www.opensource.org/licenses/mit-license.php
+Plugin-ScmConnection: scm:git:https://github.com/jenkinsci/folder-auth-p
+ lugin.git
+Plugin-ScmTag: d5b18537403e80686310ca383b0a29975e9f03bc
+Plugin-ScmUrl: https://github.com/jenkinsci/folder-auth-plugin
+Implementation-Build: d5b18537403e80686310ca383b0a29975e9f03bc
+

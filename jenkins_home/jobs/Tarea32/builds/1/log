@@ -1,0 +1,10 @@
+Started by upstream project "[8mha:////4D2JVcaRVlT+vbG/peNr4zrt5dVACuiJTctJpHNzk3FkAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZe/az8JP2QxKLURGNDfQBX4tUTwgAAAA==[0mTarea31" build number [8mha:////4MNoydIGfJbP9shX8Qra8q7ENQyNk1Jx7MC7ungsr+SWAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBj79rPwk/ZDEotREY0N9QwD+KMFpwwAAAA==[0m1
+originally caused by:
+ Started by user [8mha:////4N5ZzrxGm9h4ioTqrqRpZLr6veTvyJiAKeX6mDnbulePAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyJEgZu/dLi1CL9xJTczDwAzEzwlcAAAAA=[0mJuan Luis Guerra Quevedo
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/Tarea32
+[Tarea32] $ /bin/sh -xe /tmp/jenkins2396164623300467320.sh
++ date
+Thu Apr 24 19:47:55 UTC 2025
+Triggering a new build of [8mha:////4FN4q7FkdK48VJUzUpLHIB/sazxXl5RAuP/osLonYet/AAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZe/az8JP2QxKLURGNjfQDVgOMhwgAAAA==[0mTarea33
+Finished: SUCCESS

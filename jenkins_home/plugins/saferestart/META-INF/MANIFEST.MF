@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.6.0
+Build-Jdk-Spec: 17
+Specification-Title: Safe Restart Plugin
+Specification-Version: 0.0
+Implementation-Title: Safe Restart Plugin
+Implementation-Version: 102.v4dc1b_9636a_ee
+Group-Id: org.jenkins-ci.plugins
+Artifact-Id: saferestart
+Short-Name: saferestart
+Long-Name: Safe Restart Plugin
+Url: https://github.com/jenkinsci/saferestart-plugin
+Plugin-Version: 102.v4dc1b_9636a_ee
+Hudson-Version: 2.479.1
+Jenkins-Version: 2.479.1
+Plugin-Developers: 
+Plugin-License-Name: The MIT license
+Plugin-License-Url: https://opensource.org/licenses/MIT
+Plugin-ScmConnection: scm:git:https://github.com/jenkinsci/saferestart-p
+ lugin.git
+Plugin-ScmTag: 4dc1b9636aee1bc4f0d938799af0c4735afb1e00
+Plugin-ScmUrl: https://github.com/jenkinsci/saferestart-plugin
+Implementation-Build: 4dc1b9636aee1bc4f0d938799af0c4735afb1e00
+

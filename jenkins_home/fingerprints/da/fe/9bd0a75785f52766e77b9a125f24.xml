@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2025-04-24 18:51:46.35 UTC</timestamp>
+  <md5sum>dafe9bd0a75785f52766e77b9a125f24</md5sum>
+  <fileName>Credential id=GitHub-Token name=juanlxs/******</fileName>
+  <usages>
+    <entry>
+      <string>Tarea4</string>
+      <ranges>1-9</ranges>
+    </entry>
+    <entry>
+      <string>Tarea2</string>
+      <ranges>1-14</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

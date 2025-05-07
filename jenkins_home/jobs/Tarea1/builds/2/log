@@ -1,0 +1,9 @@
+Started by user [8mha:////4N5ZzrxGm9h4ioTqrqRpZLr6veTvyJiAKeX6mDnbulePAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyJEgZu/dLi1CL9xJTczDwAzEzwlcAAAAA=[0mJuan Luis Guerra Quevedo
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/Tarea1
+[Tarea1] $ /bin/sh -xe /tmp/jenkins9162513564191275224.sh
++ whoami
++ date
++ echo Hola, soy root es el día Thu Apr 24 18:18:21 UTC 2025 y he dicho 'Adios PEPS'
+Hola, soy root es el día Thu Apr 24 18:18:21 UTC 2025 y he dicho 'Adios PEPS'
+Finished: SUCCESS
